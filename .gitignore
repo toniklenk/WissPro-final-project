@@ -3,9 +3,10 @@
 *.names
 *.crx
 *.data
+.vscode
 Index
 
 CreditApproval Jacob*
 CreditApproval Johanna*
 
-*.ipynb_checkpoints
+.ipynb_checkpoints
